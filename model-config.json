@@ -266,7 +266,7 @@
     {
         "url": "https://civitai.com/api/download/models/329420?type=Model&format=SafeTensor&size=pruned&fp=fp16",
         "filename": "albedobaseXL_v21.safetensors",
-        "path": "checkpoints",
+        "path": "checkpoints"
     },
     {
         "url": "https://huggingface.co/playgroundai/playground-v2.5-1024px-aesthetic/resolve/main/playground-v2.5-1024px-aesthetic.fp16.safetensors?download=true",
@@ -605,7 +605,7 @@
     {
         "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/kohya_controllllite_xl_depth.safetensors?download=true",
         "filename": "kohya_controllllite_xl_depth.safetensors",
-        "path": "controlnet",
+        "path": "controlnet"
     },
     {
         "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/kohya_controllllite_xl_depth_anime.safetensors?download=true",
