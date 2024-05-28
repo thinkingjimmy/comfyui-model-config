@@ -1,0 +1,1309 @@
+{
+  "models":[
+    {
+        "url": "https://huggingface.co/lllyasviel/Annotators/resolve/main/ControlNetHED.pth",
+        "filename": "ControlNetHED.pth",
+        "path": "annotators"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/Annotators/resolve/main/res101.pth",
+        "filename": "res101.pth",
+        "path": "annotators"
+    },
+    {
+        "url": "https://huggingface.co/guoyww/animatediff/resolve/cd71ae134a27ec6008b968d6419952b0c0494cf2/mm_sd_v14.ckpt?download=true",
+        "filename": "mm_sd_v14.ckpt",
+        "path": "animatediff_models"
+    },
+    {
+        "url": "https://huggingface.co/guoyww/animatediff/resolve/cd71ae134a27ec6008b968d6419952b0c0494cf2/mm_sd_v15.ckpt?download=true",
+        "filename": "mm_sd_v15.ckpt",
+        "path": "animatediff_models"
+    },
+    {
+        "url": "https://huggingface.co/guoyww/animatediff/resolve/cd71ae134a27ec6008b968d6419952b0c0494cf2/mm_sd_v15_v2.ckpt?download=true",
+        "filename": "mm_sd_v15_v2.ckpt",
+        "path": "animatediff_models"
+    },
+    {
+        "url": "https://huggingface.co/guoyww/animatediff/resolve/cd71ae134a27ec6008b968d6419952b0c0494cf2/v3_sd15_mm.ckpt?download=true",
+        "filename": "v3_sd15_mm.ckpt",
+        "path": "animatediff_models"
+    },
+    {
+        "url": "https://huggingface.co/manshoety/AD_Stabilized_Motion/resolve/main/mm-Stabilized_high.pth?download=true",
+        "filename": "mm-Stabilized_high.pth",
+        "path": "animatediff_models"
+    },
+    {
+        "url": "https://huggingface.co/manshoety/AD_Stabilized_Motion/resolve/main/mm-Stabilized_mid.pth?download=true",
+        "filename": "mm-Stabilized_mid.pth",
+        "path": "animatediff_models"
+    },
+    {
+        "url": "https://huggingface.co/manshoety/beta_testing_models/resolve/main/mm-p_0.5.pth?download=true",
+        "filename": "mm-p_0.5.pth",
+        "path": "animatediff_models"
+    },
+    {
+        "url": "https://huggingface.co/manshoety/beta_testing_models/resolve/main/mm-p_0.75.pth?download=true",
+        "filename": "mm-p_0.75.pth",
+        "path": "animatediff_models"
+    },
+    {
+        "url": "https://huggingface.co/CiaraRowles/TemporalDiff/resolve/main/temporaldiff-v1-animatediff.safetensors?download=true",
+        "filename": "temporaldiff-v1-animatediff.safetensors",
+        "path": "animatediff_models"
+    },
+
+    {
+        "url": "https://huggingface.co/guoyww/animatediff/resolve/main/v2_lora_PanLeft.ckpt?download=true",
+        "filename": "v2_lora_PanLeft.ckpt",
+        "path": "animatediff_motion_lora"
+    },
+    {
+        "url": "https://huggingface.co/guoyww/animatediff/resolve/main/v2_lora_PanRight.ckpt?download=true",
+        "filename": "v2_lora_PanRight.ckpt",
+        "path": "animatediff_motion_lora"
+    },
+    {
+        "url": "https://huggingface.co/guoyww/animatediff/resolve/main/v2_lora_RollingAnticlockwise.ckpt?download=true",
+        "filename": "v2_lora_RollingAnticlockwise.ckpt",
+        "path": "animatediff_motion_lora"
+    },
+    {
+        "url": "https://huggingface.co/guoyww/animatediff/resolve/main/v2_lora_RollingClockwise.ckpt?download=true",
+        "filename": "v2_lora_RollingClockwise.ckpt",
+        "path": "animatediff_motion_lora"
+    },
+    {
+        "url": "https://huggingface.co/guoyww/animatediff/resolve/main/v2_lora_TiltDown.ckpt?download=true",
+        "filename": "v2_lora_TiltDown.ckpt",
+        "path": "animatediff_motion_lora"
+    },
+    {
+        "url": "https://huggingface.co/guoyww/animatediff/resolve/main/v2_lora_TiltUp.ckpt?download=true",
+        "filename": "v2_lora_TiltUp.ckpt",
+        "path": "animatediff_motion_lora"
+    },
+    {
+        "url": "https://huggingface.co/guoyww/animatediff/resolve/main/v2_lora_ZoomIn.ckpt?download=true",
+        "filename": "v2_lora_ZoomIn.ckpt",
+        "path": "animatediff_motion_lora"
+    },
+    {
+        "url": "https://huggingface.co/guoyww/animatediff/resolve/main/v2_lora_ZoomOut.ckpt?download=true",
+        "filename": "v2_lora_ZoomOut.ckpt",
+        "path": "animatediff_motion_lora"
+    },
+
+    {
+        "url": "https://huggingface.co/ViperYX/BiRefNet/resolve/main/BiRefNet-DIS_ep580.pth?download=true",
+        "filename": "BiRefNet-DIS_ep580.pth",
+        "path": "BiRefNet"
+    },
+    {
+        "url": "https://huggingface.co/ViperYX/BiRefNet/resolve/main/BiRefNet-ep480.pth?download=true",
+        "filename": "BiRefNet-ep480.pth",
+        "path": "BiRefNet"
+    },
+    {
+        "url": "https://huggingface.co/ViperYX/BiRefNet/resolve/main/pvt_v2_b2.pth?download=true",
+        "filename": "pvt_v2_b2.pth",
+        "path": "BiRefNet"
+    },
+    {
+        "url": "https://huggingface.co/ViperYX/BiRefNet/resolve/main/pvt_v2_b5.pth?download=true",
+        "filename": "pvt_v2_b5.pth",
+        "path": "BiRefNet"
+    },
+    {
+        "url": "https://huggingface.co/ViperYX/BiRefNet/resolve/main/swin_base_patch4_window12_384_22kto1k.pth?download=true",
+        "filename": "swin_base_patch4_window12_384_22kto1k.pth",
+        "path": "BiRefNet"
+    },
+    {
+        "url": "https://huggingface.co/ViperYX/BiRefNet/resolve/main/swin_large_patch4_window12_384_22kto1k.pth?download=true",
+        "filename": "swin_large_patch4_window12_384_22kto1k.pth",
+        "path": "BiRefNet"
+    },
+
+    {
+        "url": "https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned.safetensors?download=true",
+        "filename": "SD1.5_pured.safetensors",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors?download=true",
+        "filename": "SDXL_v1_base.safetensors",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors?download=true",
+        "filename": "SDXL_v1_refiner.safetensors",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/128713",
+        "filename": "dreamshaper_v8.safetensors",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/131004?type=Model&format=SafeTensor&size=pruned&fp=fp16",
+        "filename": "dreamshaper_v8_Inpainting.safetensors",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/252914?type=Model&format=SafeTensor&size=pruned&fp=fp16",
+        "filename": "dreamshaper_v8_LCM.safetensors",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/351306?type=Model&format=SafeTensor&size=full&fp=fp16",
+        "filename": "dreamshaperXL_v21_TurboDPMSDE.safetensors",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/354657?type=Model&format=SafeTensor&size=full&fp=fp16",
+        "filename": "dreamshaperXL_LightningDPMSDE.safetensors",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/348913?type=Model&format=SafeTensor&size=full&fp=fp16",
+        "filename": "juggernautXL_v9_RDPhoto2.safetensors",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/357609?type=Model&format=SafeTensor&size=full&fp=fp16",
+        "filename": "juggernautXL_v9_RDPhoto2_Lightning.safetensors",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/130072?type=Model&format=SafeTensor&size=full&fp=fp16",
+        "filename": "realisticVision_v51_VAE.safetensors",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/130090?type=Model&format=PickleTensor&size=full&fp=fp16",
+        "filename": "realisticVision_v51_VAE_Inpaninting.safetensors",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/176425?type=Model&format=SafeTensor&size=pruned&fp=fp16",
+        "filename": "majicMIXrealistic_v7.safetensors",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/221343?type=Model&format=SafeTensor&size=pruned&fp=fp16",
+        "filename": "majicMIXrealistic_v7_Inpainting.safetensors",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/384264?type=Model&format=SafeTensor&size=full&fp=fp16",
+        "filename": "anythingXL.safetensors",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/30163?type=Model&format=SafeTensor&size=full&fp=fp16",
+        "filename": "anything_v5.safetensors",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/5581?type=Model&format=SafeTensor&size=full&fp=fp16",
+        "filename": "anythingelseV4_v45.safetensors",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/293564?type=Model&format=SafeTensor&size=full&fp=fp32",
+        "filename": "animagineXL_v3.safetensors",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/119057?type=Model&format=SafeTensor&size=pruned&fp=fp16",
+        "filename": "meinaMix_v11.safetensors",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/120702?type=Model&format=SafeTensor&size=pruned&fp=fp16",
+        "filename": "meinaMix_v11_Inpainting.safetensors",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/428862?type=Model&format=SafeTensor&size=full&fp=fp32",
+        "filename": "reVAnimated_v2_VAE.safetensors",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/429454?type=Model&format=SafeTensor&size=pruned&fp=fp16",
+        "filename": "epiCPhotoGasm_UltimateFidelity.safetensors",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/134084?type=Model&format=SafeTensor&size=full&fp=fp32",
+        "filename": "absolutereality_v181_Inpainting.safetensors",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/132760?type=Model&format=SafeTensor&size=pruned&fp=fp16",
+        "filename": "absolutereality_v181.safetensors",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/302809?type=Model&format=SafeTensor&size=pruned&fp=fp16",
+        "filename": "photonium_v1.safetensors",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/143906?type=Model&format=SafeTensor&size=pruned&fp=fp16",
+        "filename": "epiCRealism_NaturalSinRC1_VAE.safetensors",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/429454?type=Model&format=SafeTensor&size=pruned&fp=fp16",
+        "filename": "epiCPhotoGasm_UltimateFidelity.safetensors",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/329420?type=Model&format=SafeTensor&size=pruned&fp=fp16",
+        "filename": "albedobaseXL_v21.safetensors",
+        "path": "checkpoints",
+    },
+    {
+        "url": "https://huggingface.co/playgroundai/playground-v2.5-1024px-aesthetic/resolve/main/playground-v2.5-1024px-aesthetic.fp16.safetensors?download=true",
+        "filename": "playground_v2.5_1024px_aesthetic.safetensors",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/445348?type=Model&format=SafeTensor&size=pruned&fp=fp16",
+        "filename": "copaxTimeLessXL_v12.safetensors",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/404559?type=Model&format=SafeTensor&size=pruned&fp=fp16",
+        "filename": "copaxTimeLessXL_v11_lightning.safetensors",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://huggingface.co/TencentARC/MotionCtrl/resolve/main/motionctrl.pth?download=true",
+        "filename": "motionctrl.pth",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://huggingface.co/TencentARC/MotionCtrl/resolve/main/motionctrl_svd.ckpt?download=true",
+        "filename": "motionctrl_svd.ckpt",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/329995",
+        "filename": "svd_xt_v11.safetensors",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://huggingface.co/stabilityai/stable-video-diffusion-img2vid/resolve/main/svd.safetensors?download=true",
+        "filename": "svd.safetensors",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://huggingface.co/stabilityai/stable-cascade/resolve/main/comfyui_checkpoints/stable_cascade_stage_b.safetensors?download=true",
+        "filename": "stable_cascade_stage_b.safetensors",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://huggingface.co/stabilityai/stable-cascade/resolve/main/comfyui_checkpoints/stable_cascade_stage_c.safetensors?download=true",
+        "filename": "stable_cascade_stage_c.safetensors",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://huggingface.co/ByteDance/SDXL-Lightning/resolve/main/sdxl_lightning_1step_x0.safetensors?download=true",
+        "filename": "sdxl_lightning_1step_x0.safetensors",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://huggingface.co/ByteDance/SDXL-Lightning/resolve/main/sdxl_lightning_2step.safetensors?download=true",
+        "filename": "sdxl_lightning_2step.safetensors",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://huggingface.co/ByteDance/SDXL-Lightning/resolve/main/sdxl_lightning_4step.safetensors?download=true",
+        "filename": "sdxl_lightning_4step.safetensors",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://huggingface.co/ByteDance/SDXL-Lightning/resolve/main/sdxl_lightning_8step.safetensors?download=true",
+        "filename": "sdxl_lightning_8step.safetensors",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/490254?type=Model&format=SafeTensor&size=full&fp=fp16",
+        "filename": "ZavyChromaXL_v7.safetensors",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/355900?type=Model&format=SafeTensor&size=full&fp=fp16",
+        "filename": "Proteus_v4.safetensors",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://huggingface.co/stabilityai/stable-diffusion-2-1-unclip/resolve/main/sd21-unclip-h.ckpt?download=true",
+        "filename": "sd21-unclip-h.ckpt",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://huggingface.co/stabilityai/stable-diffusion-2-1-unclip/resolve/main/sd21-unclip-l.ckpt?download=true",
+        "filename": "sd21-unclip-l.ckpt",
+        "path": "checkpoints"
+    },
+
+    {
+        "url": "https://huggingface.co/camenduru/SUPIR/resolve/main/SUPIR-v0F.ckpt?download=true",
+        "filename": "SUPIR-v0F.ckpt",
+        "path": "checkpoints"
+    },
+    {
+        "url": "https://huggingface.co/camenduru/SUPIR/resolve/main/SUPIR-v0Q.ckpt?download=true",
+        "filename": "SUPIR-v0Q.ckpt",
+        "path": "checkpoints"
+    },
+
+    {
+        "url": "https://huggingface.co/h94/IP-Adapter/resolve/main/models/image_encoder/model.safetensors",
+        "filename": "CLIP-ViT-H-14-laion2B-s32B-b79K.safetensors",
+        "path": "clip_vision"
+    },
+    {
+        "url": "https://huggingface.co/h94/IP-Adapter/resolve/main/sdxl_models/image_encoder/model.safetensors",
+        "filename": "CLIP-ViT-bigG-14-laion2B-39B-b160k.safetensors",
+        "path": "clip_vision"
+    },
+    {
+        "url": "https://huggingface.co/openai/clip-vit-large-patch14/resolve/main/model.safetensors?download=true",
+        "filename": "clip-vit-large-patch14.safetensors",
+        "path": "clip_vision"
+    },
+
+    {
+        "url": "https://huggingface.co/Salesforce/blip-image-captioning-base/resolve/main/config.json?download=true",
+        "filename": "config.json",
+        "path": "clip_interrogator/Salesforce/blip-image-captioning-base"
+    },
+    {
+        "url": "https://huggingface.co/Salesforce/blip-image-captioning-base/resolve/main/preprocessor_config.json?download=true",
+        "filename": "preprocessor_config.json",
+        "path": "clip_interrogator/Salesforce/blip-image-captioning-base"
+    },
+    {
+        "url": "https://huggingface.co/Salesforce/blip-image-captioning-base/resolve/main/pytorch_model.bin?download=true",
+        "filename": "pytorch_model.bin",
+        "path": "clip_interrogator/Salesforce/blip-image-captioning-base"
+    },
+    {
+        "url": "https://huggingface.co/Salesforce/blip-image-captioning-base/resolve/main/special_tokens_map.json?download=true",
+        "filename": "special_tokens_map.json",
+        "path": "clip_interrogator/Salesforce/blip-image-captioning-base"
+    },
+    {
+        "url": "https://huggingface.co/Salesforce/blip-image-captioning-base/resolve/main/tokenizer.json?download=true",
+        "filename": "tokenizer.json",
+        "path": "clip_interrogator/Salesforce/blip-image-captioning-base"
+    },
+    {
+        "url": "https://huggingface.co/Salesforce/blip-image-captioning-base/resolve/main/tokenizer_config.json?download=true",
+        "filename": "tokenizer_config.json",
+        "path": "clip_interrogator/Salesforce/blip-image-captioning-base"
+    },
+    {
+        "url": "https://huggingface.co/Salesforce/blip-image-captioning-base/resolve/main/vocab.txt?download=true",
+        "filename": "vocab.txt",
+        "path": "clip_interrogator/Salesforce/blip-image-captioning-base"
+    },
+
+    {
+        "url": "https://huggingface.co/stabilityai/control-lora/resolve/main/control-LoRAs-rank128/control-lora-canny-rank128.safetensors?download=true",
+        "filename": "control-lora-canny-rank128.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/stabilityai/control-lora/resolve/main/control-LoRAs-rank128/control-lora-depth-rank128.safetensors?download=true",
+        "filename": "control-lora-depth-rank128.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/stabilityai/control-lora/resolve/main/control-LoRAs-rank128/control-lora-recolor-rank128.safetensors?download=true",
+        "filename": "control-lora-recolor-rank128.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/stabilityai/control-lora/resolve/main/control-LoRAs-rank128/control-lora-sketch-rank128-metadata.safetensors?download=true",
+        "filename": "control-lora-sketch-rank128-metadata.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/stabilityai/control-lora/resolve/main/control-LoRAs-rank256/control-lora-canny-rank256.safetensors",
+        "filename": "control-lora-canny-rank256.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/stabilityai/control-lora/resolve/main/control-LoRAs-rank256/control-lora-depth-rank256.safetensors?download=true",
+        "filename": "control-lora-depth-rank256.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/stabilityai/control-lora/resolve/main/control-LoRAs-rank256/control-lora-recolor-rank256.safetensors?download=true",
+        "filename": "control-lora-recolor-rank256.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/stabilityai/control-lora/resolve/main/control-LoRAs-rank256/control-lora-sketch-rank256.safetensors?download=true",
+        "filename": "control-lora-sketch-rank256.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11e_sd15_ip2p.pth?download=true",
+        "filename": "control_v11e_sd15_ip2p.pth",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11e_sd15_shuffle.pth?download=true",
+        "filename": "control_v11e_sd15_shuffle.pth",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11f1e_sd15_tile.pth?download=true",
+        "filename": "control_v11f1e_sd15_tile.pth",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11f1p_sd15_depth.pth?download=true",
+        "filename": "control_v11f1p_sd15_depth.pth",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_canny.pth?download=true",
+        "filename": "control_v11p_sd15_canny.pth",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_inpaint.pth?download=true",
+        "filename": "control_v11p_sd15_inpaint.pth",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_lineart.pth?download=true",
+        "filename": "control_v11p_sd15_lineart.pth",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_mlsd.pth?download=true",
+        "filename": "control_v11p_sd15_mlsd.pth",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_normalbae.pth?download=true",
+        "filename": "control_v11p_sd15_normalbae.pth",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_openpose.pth?download=true",
+        "filename": "control_v11p_sd15_openpose.pth",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_scribble.pth?download=true",
+        "filename": "control_v11p_sd15_scribble.pth",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_seg.pth?download=true",
+        "filename": "control_v11p_sd15_seg.pth",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_softedge.pth?download=true",
+        "filename": "control_v11p_sd15_softedge.pth",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15s2_lineart_anime.pth?download=true",
+        "filename": "control_v11p_sd15s2_lineart_anime.pth",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/diffusers_xl_canny_full.safetensors?download=true",
+        "filename": "diffusers_xl_canny_full.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/diffusers_xl_canny_mid.safetensors?download=true",
+        "filename": "diffusers_xl_canny_mid.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/diffusers_xl_canny_small.safetensors?download=true",
+        "filename": "diffusers_xl_canny_small.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/diffusers_xl_depth_full.safetensors?download=true",
+        "filename": "diffusers_xl_depth_full.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/diffusers_xl_depth_mid.safetensors?download=true",
+        "filename": "diffusers_xl_depth_mid.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/diffusers_xl_depth_small.safetensors?download=true",
+        "filename": "diffusers_xl_depth_small.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/ioclab_sd15_recolor.safetensors?download=true",
+        "filename": "ioclab_sd15_recolor.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/ip-adapter_sd15.pth?download=true",
+        "filename": "ip-adapter_sd15.pth",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/ip-adapter_sd15_plus.pth?download=true",
+        "filename": "ip-adapter_sd15_plus.pth",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/ip-adapter_xl.pth?download=true",
+        "filename": "ip-adapter_xl.pth",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/kohya_controllllite_xl_blur.safetensors?download=true",
+        "filename": "kohya_controllllite_xl_blur.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/kohya_controllllite_xl_blur_anime.safetensors?download=true",
+        "filename": "kohya_controllllite_xl_blur_anime.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/kohya_controllllite_xl_blur_anime_beta.safetensors?download=true",
+        "filename": "kohya_controllllite_xl_blur_anime_beta.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/kohya_controllllite_xl_canny.safetensors?download=true",
+        "filename": "kohya_controllllite_xl_canny.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/kohya_controllllite_xl_canny_anime.safetensors?download=true",
+        "filename": "kohya_controllllite_xl_canny_anime.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/kohya_controllllite_xl_depth.safetensors?download=true",
+        "filename": "kohya_controllllite_xl_depth.safetensors",
+        "path": "controlnet",
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/kohya_controllllite_xl_depth_anime.safetensors?download=true",
+        "filename": "kohya_controllllite_xl_depth_anime.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/kohya_controllllite_xl_openpose_anime.safetensors?download=true",
+        "filename": "kohya_controllllite_xl_openpose_anime.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/kohya_controllllite_xl_openpose_anime_v2.safetensors?download=true",
+        "filename": "kohya_controllllite_xl_openpose_anime_v2.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/kohya_controllllite_xl_scribble_anime.safetensors?download=true",
+        "filename": "kohya_controllllite_xl_scribble_anime.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/TheMistoAI/MistoLine/resolve/main/mistoLine_rank256.safetensors?download=true",
+        "filename": "mistoLine_rank256.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/TheMistoAI/MistoLine/resolve/main/mistoLine_fp16.safetensors?download=true",
+        "filename": "mistoLine_fp16.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/TTPlanet/TTPLanet_SDXL_Controlnet_Tile_Realistic/resolve/main/TTPLANET_Controlnet_Tile_realistic_v2_fp16.safetensors?download=true",
+        "filename": "TTPLANET_Controlnet_Tile_realistic_v2_fp16.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/sai_xl_canny_128lora.safetensors?download=true",
+        "filename": "sai_xl_canny_128lora.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/sai_xl_canny_256lora.safetensors?download=true",
+        "filename": "sai_xl_canny_256lora.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/sai_xl_depth_128lora.safetensors?download=true",
+        "filename": "sai_xl_depth_128lora.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/sai_xl_depth_256lora.safetensors?download=true",
+        "filename": "sai_xl_depth_256lora.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/sai_xl_recolor_128lora.safetensors?download=true",
+        "filename": "sai_xl_recolor_128lora.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/sai_xl_recolor_256lora.safetensors?download=true",
+        "filename": "sai_xl_recolor_256lora.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/sai_xl_sketch_128lora.safetensors?download=true",
+        "filename": "sai_xl_sketch_128lora.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/sai_xl_sketch_256lora.safetensors?download=true",
+        "filename": "sai_xl_sketch_256lora.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/sargezt_xl_depth.safetensors?download=true",
+        "filename": "sargezt_xl_depth.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/sargezt_xl_depth_faid_vidit.safetensors?download=true",
+        "filename": "sargezt_xl_depth_faid_vidit.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/sargezt_xl_depth_zeed.safetensors?download=true",
+        "filename": "sargezt_xl_depth_zeed.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/sargezt_xl_softedge.safetensors?download=true",
+        "filename": "sargezt_xl_softedge.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/t2i-adapter_diffusers_xl_canny.safetensors?download=true",
+        "filename": "t2i-adapter_diffusers_xl_canny.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/t2i-adapter_diffusers_xl_depth_midas.safetensors?download=true",
+        "filename": "t2i-adapter_diffusers_xl_depth_midas.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/t2i-adapter_diffusers_xl_lineart.safetensors?download=true",
+        "filename": "t2i-adapter_diffusers_xl_lineart.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/t2i-adapter_diffusers_xl_depth_zoe.safetensors?download=true",
+        "filename": "t2i-adapter_diffusers_xl_depth_zoe.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/t2i-adapter_diffusers_xl_openpose.safetensors?download=true",
+        "filename": "t2i-adapter_diffusers_xl_openpose.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/t2i-adapter_xl_canny.safetensors?download=true",
+        "filename": "t2i-adapter_xl_canny.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/t2i-adapter_diffusers_xl_sketch.safetensors?download=true",
+        "filename": "t2i-adapter_diffusers_xl_sketch.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/t2i-adapter_xl_sketch.safetensors?download=true",
+        "filename": "t2i-adapter_xl_sketch.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/thibaud_xl_openpose.safetensors?download=true",
+        "filename": "thibaud_xl_openpose.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/thibaud_xl_openpose_256lora.safetensors?download=true",
+        "filename": "thibaud_xl_openpose_256lora.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/spaces/LiheYoung/Depth-Anything/resolve/main/checkpoints/depth_anything_vitl14.pth?download=true",
+        "filename": "depth_anything_vitl14.pth",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/spaces/LiheYoung/Depth-Anything/resolve/main/checkpoints/depth_anything_vitb14.pth?download=true",
+        "filename": "depth_anything_vitb14.pth",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/huchenlei/animal_openpose/resolve/main/control_sd15_animal_openpose.pth?download=true",
+        "filename": "control_sd15_animal_openpose.pth",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/hr16/ControlNet-HandRefiner-pruned/resolve/main/control_sd15_inpaint_depth_hand_fp16.safetensors?download=true",
+        "filename": "control_sd15_inpaint_depth_hand_fp16.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/SargeZT/controlnet-sd-xl-1.0-softedge-dexined/resolve/main/controlnet-sd-xl-1.0-softedge-dexined.safetensors?download=true",
+        "filename": "controlnet-sd-xl-1.0-softedge-dexined.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/InstantX/InstantID/resolve/main/ControlNetModel/diffusion_pytorch_model.safetensors?download=true",
+        "filename": "instantid-controlnet.safetensors",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/Annotators/resolve/main/res101.pth",
+        "filename": "res101.pth",
+        "path": "controlnet"
+    },
+    {
+        "url": "https://huggingface.co/lllyasviel/Annotators/resolve/main/latest_net_G.pth?download=true",
+        "filename": "latest_net_G.pth",
+        "path": "controlnet"
+    },
+    
+    {
+        "url": "https://civitai.com/api/download/models/77169?type=Model&format=PickleTensor",
+        "filename": "badDream.pt",
+        "path": "embeddings"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/77173?type=Model&format=PickleTensor",
+        "filename": "unrealisticDream.pt",
+        "path": "embeddings"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/94057?type=Model&format=PickleTensor",
+        "filename": "fastNegativeV2.pt",
+        "path": "embeddings"
+    },
+    {
+        "url": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid_sd15.bin",
+        "filename": "ip-adapter-faceid_sd15.bin",
+        "path": "ipadapter"
+    },
+    {
+        "url": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid-plusv2_sd15.bin",
+        "filename": "ip-adapter-faceid-plusv2_sd15.bin",
+        "path": "ipadapter"
+    },
+    {
+        "url": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid-portrait-v11_sd15.bin",
+        "filename": "ip-adapter-faceid-portrait-v11_sd15.bin",
+        "path": "ipadapter"
+    },
+    {
+        "url": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid_sdxl.bin",
+        "filename": "ip-adapter-faceid_sdxl.bin",
+        "path": "ipadapter"
+    },
+    {
+        "url": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid-plusv2_sdxl.bin",
+        "filename": "ip-adapter-faceid-plusv2_sdxl.bin",
+        "path": "ipadapter"
+    },
+    {
+        "url": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid-portrait_sdxl.bin",
+        "filename": "ip-adapter-faceid-portrait_sdxl.bin",
+        "path": "ipadapter"
+    },
+    {
+        "url": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid-portrait_sdxl_unnorm.bin?download=true",
+        "filename": "ip-adapter-faceid-portrait_sdxl_unnorm.bin",
+        "path": "ipadapter"
+    },
+    {
+        "url": "https://huggingface.co/h94/IP-Adapter/resolve/main/models/ip-adapter_sd15.safetensors",
+        "filename": "ip-adapter_sd15.safetensors",
+        "path": "ipadapter"
+    },
+    {
+        "url": "https://huggingface.co/h94/IP-Adapter/resolve/main/models/ip-adapter_sd15_light_v11.bin",
+        "filename": "ip-adapter_sd15_light_v11.bin",
+        "path": "ipadapter"
+    },
+    {
+        "url": "https://huggingface.co/h94/IP-Adapter/resolve/main/models/ip-adapter-plus_sd15.safetensors",
+        "filename": "ip-adapter-plus_sd15.safetensors",
+        "path": "ipadapter"
+    },
+    {
+        "url": "https://huggingface.co/h94/IP-Adapter/resolve/main/models/ip-adapter-plus-face_sd15.safetensors",
+        "filename": "ip-adapter-plus-face_sd15.safetensors",
+        "path": "ipadapter"
+    },
+    {
+        "url": "https://huggingface.co/h94/IP-Adapter/resolve/main/models/ip-adapter-full-face_sd15.safetensors",
+        "filename": "ip-adapter-full-face_sd15.safetensors",
+        "path": "ipadapter"
+    },
+    {
+        "url": "https://huggingface.co/h94/IP-Adapter/resolve/main/models/ip-adapter_sd15_vit-G.safetensors",
+        "filename": "ip-adapter_sd15_vit-G.safetensors",
+        "path": "ipadapter"
+    },
+    {
+        "url": "https://huggingface.co/h94/IP-Adapter/resolve/main/sdxl_models/ip-adapter_sdxl_vit-h.safetensors",
+        "filename": "ip-adapter_sdxl_vit-h.safetensors",
+        "path": "ipadapter"
+    },
+    {
+        "url": "https://huggingface.co/h94/IP-Adapter/resolve/main/sdxl_models/ip-adapter-plus_sdxl_vit-h.safetensors",
+        "filename": "ip-adapter-plus_sdxl_vit-h.safetensors",
+        "path": "ipadapter"
+    },
+    {
+        "url": "https://huggingface.co/h94/IP-Adapter/resolve/main/sdxl_models/ip-adapter-plus-face_sdxl_vit-h.safetensors",
+        "filename": "ip-adapter-plus-face_sdxl_vit-h.safetensors",
+        "path": "ipadapter"
+    },
+    {
+        "url": "https://huggingface.co/h94/IP-Adapter/resolve/main/sdxl_models/ip-adapter_sdxl.safetensors",
+        "filename": "ip-adapter_sdxl.safetensors",
+        "path": "ipadapter"
+    },
+    {
+        "url": "https://huggingface.co/InstantX/InstantID/resolve/main/ip-adapter.bin?download=true",
+        "filename": "instantid-ip-adapter.bin",
+        "path": "instantid"
+    },
+
+    {
+        "url": "https://huggingface.co/MonsterMMORPG/tools/resolve/main/1k3d68.onnx?download=true",
+        "filename": "1k3d68.onnx",
+        "path": "insightface/models/antelopev2"
+    },
+    {
+        "url": "https://huggingface.co/MonsterMMORPG/tools/resolve/main/2d106det.onnx?download=true",
+        "filename": "2d106det.onnx",
+        "path": "insightface/models/antelopev2"
+    },
+    {
+        "url": "https://huggingface.co/MonsterMMORPG/tools/resolve/main/genderage.onnx?download=true",
+        "filename": "genderage.onnx",
+        "path": "insightface/models/antelopev2"
+    },
+    {
+        "url": "https://huggingface.co/MonsterMMORPG/tools/resolve/main/glintr100.onnx?download=true",
+        "filename": "glintr100.onnx",
+        "path": "insightface/models/antelopev2"
+    },
+    {
+        "url": "https://huggingface.co/MonsterMMORPG/tools/resolve/main/scrfd_10g_bnkps.onnx?download=true",
+        "filename": "scrfd_10g_bnkps.onnx",
+        "path": "insightface/models/antelopev2"
+    },
+    {
+        "url": "https://huggingface.co/DavidHoa/buffalo_l/resolve/main/1k3d68.onnx?download=true",
+        "filename": "1k3d68.onnx",
+        "path": "insightface/models/buffalo_l"
+    },
+    {
+        "url": "https://huggingface.co/DavidHoa/buffalo_l/resolve/main/2d106det.onnx?download=true",
+        "filename": "2d106det.onnx",
+        "path": "insightface/models/buffalo_l"
+    },
+    {
+        "url": "https://huggingface.co/DavidHoa/buffalo_l/resolve/main/det_10g.onnx?download=true",
+        "filename": "det_10g.onnx",
+        "path": "insightface/models/buffalo_l"
+    },
+    {
+        "url": "https://huggingface.co/DavidHoa/buffalo_l/resolve/main/genderage.onnx?download=true",
+        "filename": "genderage.onnx",
+        "path": "insightface/models/buffalo_l"
+    },
+    {
+        "url": "https://huggingface.co/DavidHoa/buffalo_l/resolve/main/w600k_r50.onnx?download=true",
+        "filename": "w600k_r50.onnx",
+        "path": "insightface/models/buffalo_l"
+    },
+
+    {
+        "url": "https://civitai.com/api/download/models/28907?type=Model&format=SafeTensor&size=full&fp=fp16",
+        "filename": "animeOutline15_v4.safetensors",
+        "path": "loras"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/87153?type=Model&format=SafeTensor",
+        "filename": "addMoreDetails.safetensors",
+        "path": "loras"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/196413?type=Model&format=SafeTensor",
+        "filename": "memoji.safetensors",
+        "path": "loras"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/62833?type=Model&format=SafeTensor",
+        "filename": "addDetail.safetensors",
+        "path": "loras"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/160130?type=Model&format=SafeTensor",
+        "filename": "StickersRedmond.safetensors",
+        "path": "loras"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/196413?type=Model&format=SafeTensor",
+        "filename": "memoji_1024-000005.safetensors",
+        "path": "loras"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/221390?type=Model&format=SafeTensor",
+        "filename": "StudioGhibli.Redmond-StdGBRRedmAF-StudioGhibli.safetensors",
+        "path": "loras"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/236248?type=Model&format=SafeTensor",
+        "filename": "CLAYMATE_V2.03_.safetensors",
+        "path": "loras"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/107366?type=Model&format=SafeTensor",
+        "filename": "3DMM_V12.safetensors",
+        "path": "loras"
+    },
+    {
+        "url": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid_sd15_lora.safetensors?download=true",
+        "filename": "ip-adapter-faceid_sd15_lora.safetensors",
+        "path": "loras"
+    },
+    {
+        "url": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid_sdxl_lora.safetensors?download=true",
+        "filename": "ip-adapter-faceid_sdxl_lora.safetensors",
+        "path": "loras"
+    },
+    {
+        "url": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid-plusv2_sd15_lora.safetensors?download=true",
+        "filename": "ip-adapter-faceid-plusv2_sd15_lora.safetensors",
+        "path": "loras"
+    },
+    {
+        "url": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid-plusv2_sdxl_lora.safetensors?download=true",
+        "filename": "ip-adapter-faceid-plusv2_sdxl_lora.safetensors",
+        "path": "loras"
+    },
+    {
+        "url": "https://huggingface.co/latent-consistency/lcm-lora-sdxl/resolve/main/pytorch_lora_weights.safetensors?download=true",
+        "filename": "lcm_lora_sdxl.safetensors",
+        "path": "loras"
+    },
+    {
+        "url": "https://huggingface.co/latent-consistency/lcm-lora-sdv1-5/resolve/main/pytorch_lora_weights.safetensors?download=true",
+        "filename": "lcm-lora-sd15.safetensors",
+        "path": "loras"
+    },
+    {
+        "url": "https://huggingface.co/ByteDance/SDXL-Lightning/resolve/main/sdxl_lightning_2step_lora.safetensors?download=true",
+        "filename": "sdxl_lightning_2step_lora.safetensors",
+        "path": "loras"
+    },
+    {
+        "url": "https://huggingface.co/ByteDance/SDXL-Lightning/resolve/main/sdxl_lightning_4step_lora.safetensors?download=true",
+        "filename": "sdxl_lightning_4step_lora.safetensors",
+        "path": "loras"
+    },
+    {
+        "url": "https://huggingface.co/ByteDance/SDXL-Lightning/resolve/main/sdxl_lightning_8step_lora.safetensors?download=true",
+        "filename": "sdxl_lightning_8step_lora.safetensors",
+        "path": "loras"
+    },
+    {
+        "url": "https://huggingface.co/segmind/Segmind-VegaRT/resolve/main/pytorch_lora_weights.safetensors?download=true",
+        "filename": "segmindVegaRT.safetensors",
+        "path": "loras"
+    },
+    {
+        "url": "https://huggingface.co/ShilongLiu/GroundingDINO/resolve/main/groundingdino_swint_ogc.pth",
+        "filename": "groundingdino_swint_ogc.pth",
+        "path": "grounding-dino"
+    },
+    {
+        "url": "https://huggingface.co/ShilongLiu/GroundingDINO/resolve/main/groundingdino_swinb_cogcoor.pth",
+        "filename": "groundingdino_swinb_cogcoor.pth",
+        "path": "grounding-dino"
+    },
+    {
+        "url": "https://huggingface.co/ShilongLiu/GroundingDINO/resolve/main/GroundingDINO_SwinT_OGC.cfg.py",
+        "filename": "GroundingDINO_SwinT_OGC.cfg.py",
+        "path": "grounding-dino"
+    },
+    {
+        "url": "https://huggingface.co/ShilongLiu/GroundingDINO/resolve/main/GroundingDINO_SwinB.cfg.py",
+        "filename": "GroundingDINO_SwinB.cfg.py",
+        "path": "grounding-dino"
+    },
+    {
+        "url": "https://huggingface.co/briaai/RMBG-1.4/resolve/main/model.pth?download=true",
+        "filename": "RMBG-1.4.pth",
+        "path": "rembg"
+    },
+    {
+        "url": "https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth",
+        "filename": "sam_vit_h_4b8939.pth",
+        "path": "sams"
+    },
+    {
+        "url": "https://dl.fbaipublicfiles.com/segment_anything/sam_vit_l_0b3195.pth",
+        "filename": "sam_vit_l_0b3195.pth",
+        "path": "sams"
+    },
+    {
+        "url": "https://dl.fbaipublicfiles.com/segment_anything/sam_vit_b_01ec64.pth",
+        "filename": "sam_vit_b_01ec64.pth",
+        "path": "sams"
+    },
+    {
+        "url": "https://huggingface.co/lkeab/hq-sam/resolve/main/sam_hq_vit_h.pth",
+        "filename": "sam_hq_vit_h.pth",
+        "path": "sams"
+    },
+    {
+        "url": "https://huggingface.co/lkeab/hq-sam/resolve/main/sam_hq_vit_l.pth",
+        "filename": "sam_hq_vit_l.pth",
+        "path": "sams"
+    },
+    {
+        "url": "https://huggingface.co/lkeab/hq-sam/resolve/main/sam_hq_vit_b.pth",
+        "filename": "sam_hq_vit_b.pth",
+        "path": "sams"
+    },
+    {
+        "url": "https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/coadapter-style-sd15v1.pth?download=true",
+        "filename": "coadapter-style-sd15v1.pth",
+        "path": "style_models"
+    },
+    {
+        "url": "https://huggingface.co/google-bert/bert-base-uncased/resolve/main/config.json?download=true",
+        "filename": "config.json",
+        "path": "bert-base-uncased"
+    },
+    {
+        "url": "https://huggingface.co/google-bert/bert-base-uncased/resolve/main/model.safetensors?download=true",
+        "filename": "model.safetensors",
+        "path": "bert-base-uncased"
+    },
+    {
+        "url": "https://huggingface.co/google-bert/bert-base-uncased/resolve/main/tokenizer.json?download=true",
+        "filename": "tokenizer.json",
+        "path": "bert-base-uncased"
+    },
+    {
+        "url": "https://huggingface.co/google-bert/bert-base-uncased/resolve/main/tokenizer_config.json?download=true",
+        "filename": "tokenizer_config.json",
+        "path": "bert-base-uncased"
+    },
+    {
+        "url": "https://huggingface.co/google-bert/bert-base-uncased/resolve/main/vocab.txt?download=true",
+        "filename": "vocab.txt",
+        "path": "bert-base-uncased"
+    },
+    {
+        "url": "https://huggingface.co/huchenlei/IC-Light-ldm/resolve/main/iclight_sd15_fbc_unet_ldm.safetensors?download=true",
+        "filename": "iclight_sd15_fbc_unet_ldm.safetensors",
+        "path": "unet"
+    },
+    {
+        "url": "https://huggingface.co/huchenlei/IC-Light-ldm/resolve/main/iclight_sd15_fc_unet_ldm.safetensors?download=true",
+        "filename": "iclight_sd15_fc_unet_ldm.safetensors",
+        "path": "unet"
+    },
+    {
+        "url": "https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.1/RealESRGAN_x2plus.pth",
+        "filename": "RealESRGAN_x2plus.pth",
+        "path": "upscale_models"
+    },
+    {
+        "url": "https://github.com/xinntao/Real-ESRGAN/releases/download/v0.1.0/RealESRGAN_x4plus.pth",
+        "filename": "RealESRGAN_x4plus.pth",
+        "path": "upscale_models"
+    },
+    {
+        "url": "https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.2.4/RealESRGAN_x4plus_anime_6B.pth",
+        "filename": "RealESRGAN_x4plus_anime_6B.pth",
+        "path": "upscale_models"
+    },
+    {
+        "url": "https://objectstorage.us-phoenix-1.oraclecloud.com/n/ax6ygfvpvzka/b/open-modeldb-files/o/1x-ITF-SkinDiffDetail-Lite-v1.pth",
+        "filename": "1x-ITF-SkinDiffDetail-Lite-v1.pth",
+        "path": "upscale_models"
+    },
+     {
+        "url": "https://huggingface.co/FacehugmanIII/4x_foolhardy_Remacri/resolve/main/4x_foolhardy_Remacri.pth?download=true",
+        "filename": "4x_foolhardy_Remacri.pth",
+        "path": "upscale_models"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/164891?type=Model&format=PickleTensor",
+        "filename": "4x-UltraMix_Balanced.pt",
+        "path": "upscale_models"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/164888?type=Model&format=PickleTensor",
+        "filename": "4x-UltraMix_Restore.pt",
+        "path": "upscale_models"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/164882?type=Model&format=PickleTensor",
+        "filename": "4x-UltraMix_Smooth.pt",
+        "path": "upscale_models"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/125843?type=Model&format=PickleTensor",
+        "filename": "4x-UltraSharp.pt",
+        "path": "upscale_models"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/328284",
+        "filename": "8x_NMKD-Superscale_150000_G.pth",
+        "path": "upscale_models"
+    },
+    {
+        "url": "https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_NMKD-Siax_200k.pth",
+        "filename": "4x_NMKD-Siax_200k.pth",
+        "path": "upscale_models"
+    },
+    {
+        "url": "https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_Nickelback_70000G.pth",
+        "filename": "4x_Nickelback_70000G.pth",
+        "path": "upscale_models"
+    },
+    {
+        "url": "https://huggingface.co/kadirnar/BSRGANx2/resolve/main/BSRGANx2.pth?download=true",
+        "filename": "BSRGANx2.pth",
+        "path": "upscale_models"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/311162?type=Model&format=SafeTensor",
+        "filename": "vae-ft-mse-840000-ema-pruned.safetensors",
+        "path": "vae"
+    },
+    {
+        "url": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/VAEs/orangemix.vae.pt?download=true",
+        "filename": "orangemix.vae.pt",
+        "path": "vae"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/333245?type=Model&format=SafeTensor",
+        "filename": "sdxl_vae.safetensors",
+        "path": "vae"
+    },
+    {
+        "url": "https://github.com/enesmsahin/simple-lama-inpainting/releases/download/v0.1.0/big-lama.pt",
+        "filename": "big-lama.pt",
+        "path": "lama"
+    },
+    {
+        "url": "https://huggingface.co/succinctly/text2image-prompt-generator/resolve/main/config.json?download=true",
+        "filename": "config.json",
+        "path": "prompt_generator/text2image-prompt-generator"
+    },
+    {
+        "url": "https://huggingface.co/succinctly/text2image-prompt-generator/resolve/main/merges.txt?download=true",
+        "filename": "merges.txt",
+        "path": "prompt_generator/text2image-prompt-generator"
+    },
+    {
+        "url": "https://huggingface.co/succinctly/text2image-prompt-generator/resolve/main/pytorch_model.bin?download=true",
+        "filename": "pytorch_model.bin",
+        "path": "prompt_generator/text2image-prompt-generator"
+    },
+    {
+        "url": "https://huggingface.co/succinctly/text2image-prompt-generator/resolve/main/special_tokens_map.json?download=true",
+        "filename": "special_tokens_map.json",
+        "path": "prompt_generator/text2image-prompt-generator"
+    },
+    {
+        "url": "https://huggingface.co/succinctly/text2image-prompt-generator/resolve/main/tokenizer.json?download=true",
+        "filename": "tokenizer.json",
+        "path": "prompt_generator/text2image-prompt-generator"
+    },
+    {
+        "url": "https://huggingface.co/succinctly/text2image-prompt-generator/resolve/main/tokenizer_config.json?download=true",
+        "filename": "tokenizer_config.json",
+        "path": "prompt_generator/text2image-prompt-generator"
+    },
+    {
+        "url": "https://huggingface.co/succinctly/text2image-prompt-generator/resolve/main/training_args.bin?download=true",
+        "filename": "training_args.bin",
+        "path": "prompt_generator/text2image-prompt-generator"
+    },
+    {
+        "url": "https://huggingface.co/succinctly/text2image-prompt-generator/resolve/main/vocab.json?download=true",
+        "filename": "vocab.json",
+        "path": "prompt_generator/text2image-prompt-generator"
+    },
+    {
+        "url": "https://huggingface.co/Helsinki-NLP/opus-mt-zh-en/resolve/main/config.json?download=true",
+        "filename": "config.json",
+        "path": "prompt_generator/opus-mt-zh-en"
+    },
+    {
+        "url": "https://huggingface.co/Helsinki-NLP/opus-mt-zh-en/resolve/main/generation_config.json?download=true",
+        "filename": "generation_config.json",
+        "path": "prompt_generator/opus-mt-zh-en"
+    },
+    {
+        "url": "https://huggingface.co/Helsinki-NLP/opus-mt-zh-en/resolve/main/metadata.json?download=true",
+        "filename": "metadata.json",
+        "path": "prompt_generator/opus-mt-zh-en"
+    },
+    {
+        "url": "https://huggingface.co/Helsinki-NLP/opus-mt-zh-en/resolve/main/pytorch_model.bin?download=true",
+        "filename": "pytorch_model.bin",
+        "path": "prompt_generator/opus-mt-zh-en"
+    },
+    {
+        "url": "https://huggingface.co/Helsinki-NLP/opus-mt-zh-en/resolve/main/source.spm?download=true",
+        "filename": "source.spm",
+        "path": "prompt_generator/opus-mt-zh-en"
+    },
+    {
+        "url": "https://huggingface.co/Helsinki-NLP/opus-mt-zh-en/resolve/main/tokenizer_config.json?download=true",
+        "filename": "tokenizer_config.json",
+        "path": "prompt_generator/opus-mt-zh-en"
+    },
+    {
+        "url": "https://huggingface.co/Helsinki-NLP/opus-mt-zh-en/resolve/main/target.spm?download=true",
+        "filename": "target.spm",
+        "path": "prompt_generator/opus-mt-zh-en"
+    },
+    {
+        "url": "https://huggingface.co/Helsinki-NLP/opus-mt-zh-en/resolve/main/vocab.json?download=true",
+        "filename": "vocab.json",
+        "path": "prompt_generator/opus-mt-zh-en"
+    }
+  ]
+}
